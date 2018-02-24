@@ -10,9 +10,6 @@ public class CircleArea {
 		double area = Math.PI * Math.pow(rad, 2);
 		
 		System.out.println("The area of the circle is " + area);
-		
-		double half = area/2;
-		System.out.println("Half area of the circle is " + half);
 
 	}
 
